@@ -34,7 +34,7 @@ select 'We have' || ' ' ||
  We have 3 girls!
 (2 rows)
 
-****select name, 10 as "words" from vocabulary;
+***select name, 10 as "words" from vocabulary;
   name   | words
 ---------+-------
  animals |    10
